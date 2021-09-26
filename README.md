@@ -1,1 +1,2 @@
-# moskva.github.io
+# hexo blog
+Repo for my hexo blog
